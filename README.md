@@ -15,7 +15,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 * Codeship : {https://app.codeship.com/projects/e80fb900-1ca6-0136-77b3-3a2fa3db1033/status?branch=master}
 
 Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for KrupchakAS/tasksTSystems](https://app.codeship.com/projects/e80fb900-1ca6-0136-77b3-3a2fa3db1033/status?branch=master)](https://app.codeship.com/projects/284669)](https://app.codeship.com/projects/201451)
+[ ![Codeship Status for KrupchakAS/tasksTSystems](https://app.codeship.com/projects/e80fb900-1ca6-0136-77b3-3a2fa3db1033/status?branch=master)](https://app.codeship.com/projects/284669)](https://app.codeship.com/projects/284669)
 
 
 ### How to start?  ###
